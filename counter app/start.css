@@ -1,0 +1,17 @@
+body{
+    background-image:url(wp3131756.webp);
+    background-size:cover;
+    background-repeat:no-repeat;
+    text-align:center;
+}
+h2{
+    font-size:40px;
+}
+button{
+    background-color:rgb(153, 1, 1);
+    color:white;
+    border:solid 0px;
+    border-radius:3px;
+    width:140px;
+    height:30px;
+} 
